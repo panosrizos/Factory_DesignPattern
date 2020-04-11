@@ -1,0 +1,7 @@
+C:\Users\Παναγιώτης\source\repos\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\FactoryDesignPattern.exe.config
+C:\Users\Παναγιώτης\source\repos\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\FactoryDesignPattern.exe
+C:\Users\Παναγιώτης\source\repos\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\FactoryDesignPattern.pdb
+C:\Users\Παναγιώτης\source\repos\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\FactoryDesignPattern.csprojAssemblyReference.cache
+C:\Users\Παναγιώτης\source\repos\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\FactoryDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Παναγιώτης\source\repos\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\FactoryDesignPattern.exe
+C:\Users\Παναγιώτης\source\repos\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\FactoryDesignPattern.pdb
